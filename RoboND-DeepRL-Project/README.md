@@ -1,3 +1,34 @@
+# Robotics-term2-P4-Arm-Reinforcement-Learning
+## Description
+This is  a Udacity robotics nanodegree 4th project. This project's goal is implementing a reinforcement learning agent based on ROS GAZEBO. RL is implemented by using the Pytorch algorithm. The detail setting can refer the pdf in repo.
+If have questions, contact me at flaaud159@gmail.com
+
+## Tool used
+0. ros
+1. Gazebo
+
+## Project results
+Video: https://youtu.be/VYcDgbTI2cs
+Image:
+![Reinforcement learning world](https://github.com/Fred159/Robotics-term2-P4-Arm-Reinforcement-Learning/blob/master/Images/RL_arm_world.png)
+
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/VYcDgbTI2cs" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/VYcDgbTI2cs"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+
 
 # Deep RL Arm Manipulation
 
