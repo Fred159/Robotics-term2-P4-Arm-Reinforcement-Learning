@@ -8,12 +8,14 @@ If have questions, contact me at flaaud159@gmail.com
 1. Gazebo
 
 ## Project results
-Video: https://youtu.be/VYcDgbTI2cs
+
 Image:
 ![Reinforcement learning world](https://github.com/Fred159/Robotics-term2-P4-Arm-Reinforcement-Learning/blob/master/Images/RL_arm_world.png)
 
+Video:
+[![RL arm traninng](https://github.com/Fred159/Robotics-term2-P4-Arm-Reinforcement-Learning/blob/master/Images/Ming_ob1_93.png)](https://youtu.be/VYcDgbTI2cs)
+Video: https://youtu.be/VYcDgbTI2cs
 
-[![RL arm traninng](https://github.com/Fred159/Robotics-term2-P4-Arm-Reinforcement-Learning/blob/master/Images/RL_arm_world.png)](https://youtu.be/VYcDgbTI2cs)
 
 
 
